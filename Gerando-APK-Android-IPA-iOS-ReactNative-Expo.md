@@ -23,4 +23,4 @@
 - expo build:android -t apk
 - Após realizar o comando de gerar apk será necessário gerar o keystore
 - Selecione a option Generate new keystore para que o expo gere uma chave
-- após terminar o build, basta acessar o link no terminal para baixar a apk: https://expo.dev/artifacts/85049cd8-0e93-470f-81f5-12d38a44aa8f
+- após terminar o build, basta acessar o link no terminal para baixar a apk.
