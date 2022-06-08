@@ -18,6 +18,8 @@
       "bundleIdentifier": "com.arthurart.generatingapk"
     }
 ```
+# Configurando Android Studio
+- https://react-native.rocketseat.dev/
 # Building app
 - expo build:android ou expo build:ios
 - expo build:android -t apk
