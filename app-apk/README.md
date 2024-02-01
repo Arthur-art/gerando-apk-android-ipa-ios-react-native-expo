@@ -22,7 +22,8 @@
 - https://react-native.rocketseat.dev/
 # Building app
 - expo build:android ou expo build:ios
-- expo build:android -t apk
+- npm install -g eas-cli
+- eas build -p android
 - Após realizar o comando de gerar apk será necessário gerar o keystore
 - Selecione a option Generate new keystore para que o expo gere uma chave
 - após terminar o build, basta acessar o link no terminal para baixar a apk.
